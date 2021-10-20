@@ -23,9 +23,9 @@ class ViewController: UIViewController {
         redView.alpha = 0.3
         redView.layer.cornerRadius = 70
         yellowView.alpha = 0.3
-        yellowView.layer.cornerRadius = 70
+        yellowView.layer.cornerRadius = 60
         greenView.alpha = 0.3
-        greenView.layer.cornerRadius = 70
+        greenView.layer.cornerRadius = 50
         button.layer.cornerRadius = 15
         
         button.setTitle("START", for: .normal)
